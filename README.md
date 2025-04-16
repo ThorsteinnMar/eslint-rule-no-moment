@@ -7,4 +7,4 @@ This custom ESLint rule forbids the use of the `moment` library. The rule aims t
 Install via npm:
 
 ```bash
-npm install eslint-rule-no-moment --save-dev
+npm install @thorsteinnmar/eslint-plugin-no-moment@1.0.0
